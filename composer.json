@@ -1,5 +1,5 @@
 {
-  "name": "ratehub/doctrine-graphql",
+  "name": "brianwk/doctrine-graphql",
   "description": "A GraphQL Doctrine ORM bridge",
   "license": "MIT",
   "keywords": [
