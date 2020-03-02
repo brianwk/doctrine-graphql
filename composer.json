@@ -1,6 +1,6 @@
 {
   "name": "brianwk/doctrine-graphql",
-  "description": "A GraphQL Doctrine ORM bridge",
+  "description": "A GraphQL Doctrine ORM bridge (forked to udpate deps)",
   "license": "MIT",
   "keywords": [
     "doctrine",
